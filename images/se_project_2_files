@@ -1,0 +1,15 @@
+<script>start("/Users/ryanfarhoud/Downloads/se_project_2_files/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("background_header.svg","background_header.svg",0,356,"356 B",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("background_menu.svg","background_menu.svg",0,223,"223 B",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("background_recipes.svg","background_recipes.svg",0,225,"225 B",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("background_reservation.svg","background_reservation.svg",0,363,"363 B",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("check.svg","check.svg",0,244,"244 B",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("facebook_white.svg","facebook_white.svg",0,503,"503 B",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("favicon_circles.ico","favicon_circles.ico",0,15086,"14.7 kB",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("favicon_coffee_bean.ico","favicon_coffee_bean.ico",0,15086,"14.7 kB",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("inside_coffee_shop.png","inside_coffee_shop.png",0,241129,"235 kB",1721289262,"7/18/24, 10:54:22 AM");</script>
+<script>addRow("instagram_white.svg","instagram_white.svg",0,3352,"3.3 kB",1669209620,"11/23/22, 3:20:20 PM");</script>
+<script>addRow("logo_coffeeshop_dark.svg","logo_coffeeshop_dark.svg",0,15062,"14.7 kB",1686728358,"6/14/23, 10:39:18 AM");</script>
+<script>addRow("logo_coffeeshop_light.svg","logo_coffeeshop_light.svg",0,15062,"14.7 kB",1686728358,"6/14/23, 10:39:18 AM");</script>
+<script>addRow("se_project_2_files","se_project_2_files",0,0,"0 B",1741898678,"3/13/25, 10:44:38 PM");</script>
