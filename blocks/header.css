@@ -1,10 +1,12 @@
 .header {
   position: relative;
+  box-sizing: border-box;
   padding: 30px 80px 40px;
   background: center / cover no-repeat #fff url(../images/background_header.svg);
   height: 800px;
   display: flex;
   flex-direction: column;
+  z-index: 1;
 }
 
 .header__title {
@@ -23,7 +25,7 @@
   color: #000;
   margin: 28px 0 0;
   max-width: 683px;
-  font-family: "Noto Serif", "Times New Roman", "serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -31,7 +33,7 @@
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", "Times New Roman", "serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   color: #3f96f3;
 }
@@ -42,6 +44,7 @@
   top: 124px;
   right: 5px;
   position: absolute;
+  z-index: -1;
 }
 
 .header__footer {
